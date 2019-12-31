@@ -278,6 +278,8 @@ html {
 @media only all and (max-width: 768px) {
     #i-am {
         font-size: 20pt;
+        text-align: center;
+        width: 100%;
     }
 }
 
